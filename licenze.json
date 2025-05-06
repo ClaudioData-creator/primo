@@ -1,12 +1,12 @@
 [
   {
     "email": "mario@email.com",
-    "licenza_valida": false,
+    "licenza_valida": true,
     "scadenza": "2025-12-31"
   },
   {
     "email": "luca@email.com",
-    "licenza_valida": false,
+    "licenza_valida": true,
     "scadenza": "2024-04-01"
   },
   {
