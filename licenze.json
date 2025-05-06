@@ -1,0 +1,17 @@
+[
+  {
+    "email": "mario@email.com",
+    "licenza_valida": true,
+    "scadenza": "2025-12-31"
+  },
+  {
+    "email": "luca@email.com",
+    "licenza_valida": false,
+    "scadenza": "2024-04-01"
+  },
+  {
+    "email": "giulia@email.com",
+    "licenza_valida": true,
+    "scadenza": "2025-09-15"
+  }
+]
